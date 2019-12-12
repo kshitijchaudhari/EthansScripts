@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 def add(a, b):
-    pass
+    print("Addition is ",(a+b))
 def sub(a, b):
     pass
 
